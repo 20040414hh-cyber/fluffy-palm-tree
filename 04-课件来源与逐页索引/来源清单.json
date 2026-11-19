@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "第二讲.pptx",
+    "sha256": "6a0bb7d2ec6c942998ce6dd10dff1391575543a4d568247431adee7b0e86d92c",
+    "page_count": 36,
+    "duplicate_of": null
+  },
+  {
+    "filename": "第二讲(1).pptx",
+    "sha256": "6a0bb7d2ec6c942998ce6dd10dff1391575543a4d568247431adee7b0e86d92c",
+    "page_count": 36,
+    "duplicate_of": "第二讲.pptx"
+  },
+  {
+    "filename": "第三讲-信息图形类型学.pptx",
+    "sha256": "29f8f4c0f54d872fc504a55ac96f0c563f274d6005dc0897f142544d61d2b215",
+    "page_count": 73,
+    "duplicate_of": null
+  },
+  {
+    "filename": "信息图表与数据可视化-1(1).pptx",
+    "sha256": "2ad373388aa631293ab9e06d960e114a53d8975ca92cb861290ec2386bd5c864",
+    "page_count": 41,
+    "duplicate_of": null
+  }
+]
